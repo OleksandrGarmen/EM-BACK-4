@@ -107,7 +107,7 @@ enum Role {
     private comments: Comment[];
   
     constructor(
-      name: string,
+      name:string,
       quantity: number,
       price: number,
       tags: string[],
