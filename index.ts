@@ -1,9 +1,9 @@
 //TASK #1 | LEVEL #1
 
 enum Role {
-    ADMIN = "ADMIN",
-    MODERATOR = "MODERATOR",
-    CUSTOMER = "CUSTOMER"
+    ADMIN = 10
+    MODERATOR = 20
+    CUSTOMER = 20
   }
   
   class User {
